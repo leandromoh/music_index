@@ -26,8 +26,6 @@
 * [Rigor Mortis - Die In Pain](https://www.youtube.com/watch?v=ktbPhGpfryA)
 * [Flageladör - Assalto da Motosserra](https://www.youtube.com/watch?v=PMunY1sxSIw)
 
-* Vio-Lence - Bodies On Bodies
-
 ## [Heavy Metal](https://en.wikipedia.org/wiki/Heavy_metal_music)
 * [Exciter - Live Fast, Die Young](https://www.youtube.com/watch?v=eysCd5G5rUs)
 * [Manowar - Die For Metal](https://www.youtube.com/watch?v=QR4LVy72uzQ)
