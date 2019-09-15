@@ -35,6 +35,15 @@
 ## [Dubstep](https://en.wikipedia.org/wiki/Dubstep)
 * [Elements - Lindsey Stirling](https://www.youtube.com/watch?v=sf6LD2B_kDQ)
 
+## [Funk Carioca](https://pt.wikipedia.org/wiki/Funk_carioca)
+* [Mc Nego Bam - Malandramente](https://www.youtube.com/watch?v=5GzYOit0G4E)
+* [MCs Zaac e Jerry - Bumbum Granada](https://www.youtube.com/watch?v=EWcOY14GWwM)
+* [MC Brinquedo - Roça Roça 3](https://www.youtube.com/watch?v=y3UVdkWsk8s)
+* [MC Kevinho - Olha a Explosão](http://youtube.com/watch?v=3yd_eoMOvqk)
+* [MC G15 - Deu Onda](https://www.youtube.com/watch?v=lYxcW8jtFw0)
+* [MC Jhey - Predador de Perereca](https://www.youtube.com/watch?v=_QXwOaLbRyU)
+* [Anitta - Bola Rebola](https://www.youtube.com/watch?v=lby6qH2WYXY)
+
 ## [Rap](https://en.wikipedia.org/wiki/Rapping)
 * [Mag - Rio de Janeiro Part. 2](https://www.youtube.com/watch?v=cc3np9H7ltg)
 * [Facção Central - Eu Não Pedi Pra Nascer](https://www.youtube.com/watch?v=AjH5syqe22A)
