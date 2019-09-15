@@ -29,17 +29,17 @@
 * Vio-Lence - Bodies On Bodies
 
 ## [Heavy Metal](https://en.wikipedia.org/wiki/Heavy_metal_music)
-* Exciter - Live Fast, Die Young
-* Manowar - Die For Metal
-* Accept - Fast As A Shark
-* Black Sabbath - Iron Man
-* Dio - Rainbow In The Dark
-* Grave Digger - Excalibur
-* Iron Maiden - Fear Of The Dark
-* judas priest - painkiller
-* Ozzy Osbourne - Crazy Train
-* Rainbow - Stargazer
-* Saxon - Crusader
+* [Exciter - Live Fast, Die Young](https://www.youtube.com/watch?v=eysCd5G5rUs)
+* [Manowar - Die For Metal](https://www.youtube.com/watch?v=QR4LVy72uzQ)
+* [Accept - Fast As A Shark](https://www.youtube.com/watch?v=tTeXBTStek0)
+* [Black Sabbath - Iron Man](https://www.youtube.com/watch?v=8aQRq9hhekA)
+* [Dio - Rainbow In The Dark](https://www.youtube.com/watch?v=qcWKZTI9OC4)
+* [Grave Digger - Excalibur](https://www.youtube.com/watch?v=GlicNcNeQ8o)
+* [Iron Maiden - Fear Of The Dark](https://www.youtube.com/watch?v=J0N1yY937qg)
+* [Judas Priest - Painkiller](https://www.youtube.com/watch?v=nM__lPTWThU)
+* [Ozzy Osbourne - Crazy Train](https://www.youtube.com/watch?v=vy1V5LHXWbg)
+* [Rainbow - Stargazer](https://www.youtube.com/watch?v=rVXy1OhaERY)
+* [Saxon - Crusader](https://www.youtube.com/watch?v=JPbSjmToWXY)
 
 ## [Power Metal](https://en.wikipedia.org/wiki/Power_metal)
 * Blind Guardian - Skalds And Shadows
