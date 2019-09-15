@@ -1,6 +1,8 @@
-# Project
-The idea of this project is provide a list to show people the diversity of music around the world, introducing the main genres, with several songs by genre.
+# About The Project
+The idea of this project is show people the diversity of music around the world, provide a list that introduces the main genres, with several songs by genre.
 Anyone can contribues with new musics or genres, just open an issue on this repository. 
+
+# Main Genres
 
 ## [Baião](https://en.wikipedia.org/wiki/Bai%C3%A3o_(music))
 * [Luiz Gonzaga - Pagode Russo](https://www.youtube.com/watch?v=I0Nrfq4wB9k)
