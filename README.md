@@ -10,22 +10,22 @@
 * [Fueled By Fire - Rising From Beneath](https://www.youtube.com/watch?v=gjc9DiwMZB0)
 
 ## [Old School Thrash Metal](https://en.wikipedia.org/wiki/Thrash_metal)
-* Exodus - Bonded By Blood
-* Slayer - Angel of Death
-* Megadeth - Holy Wars...The Punishment Due
-* Death Angel - Thrashers
-* Venom - Don't Burn The Witch
-* testament - brotherhood of the snake
-* sepultura - roots bloody roots
-* Destruction - Intro-Total Desaster
-* Kreator - Flag Of Hate
-* Metallica - Damage, Inc.
-* S.D.I. - Megamosh
-* Razor - Edge of the Razor
-* Rigor Mortis - Die In Pain
-* Nuclear Assault - Critical Mass
-* Sodom - Agent Orange
-* Tankard - (Empty) Tankard
+* [Exodus - Bonded By Blood](https://www.youtube.com/watch?v=tTdGnKB8j7U)
+* [Slayer - Angel of Death](https://www.youtube.com/watch?v=K6_zsJ8KPP0)
+* [Megadeth - Holy Wars...The Punishment Due](https://www.youtube.com/watch?v=KBtYOI8U3Cc)
+* [Metallica - Damage, Inc.](https://www.youtube.com/watch?v=h7e9Ww_wowU)
+* [Death Angel - Thrashers](https://www.youtube.com/watch?v=AooZ9L6L1KU)
+* [Venom - Don't Burn The Witch](https://www.youtube.com/watch?v=bMwaDeJFx60)
+* [Testament - Brotherhood Of The Snake](https://www.youtube.com/watch?v=OeIgFsU0x4I)
+* [Sepultura - Roots Bloody Roots](https://www.youtube.com/watch?v=F_6IjeprfEs)
+* [Destruction - Curse The Gods](https://www.youtube.com/watch?v=XnFL3xMoKIk)
+* [Kreator - Pleasure to Kill](https://www.youtube.com/watch?v=7PyvU9iSq50)
+* [Tankard - Need Money For Beer](https://www.youtube.com/watch?v=p5tbtjYh7Bs)
+* [Sodom - Agent Orange](https://www.youtube.com/watch?v=h-x59ON5Q88)
+* [S.D.I. - Megamosh](https://www.youtube.com/watch?v=_eEGqcIcrrg)
+* [Rigor Mortis - Die In Pain](https://www.youtube.com/watch?v=ktbPhGpfryA)
+* [Flageladör - Assalto da Motosserra](https://www.youtube.com/watch?v=PMunY1sxSIw)
+
 * Vio-Lence - Bodies On Bodies
 
 ## [Heavy Metal](https://en.wikipedia.org/wiki/Heavy_metal_music)
