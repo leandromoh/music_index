@@ -73,14 +73,14 @@
 * Excoriate - On Pestilent Winds
 
 ## [Black Metal](https://en.wikipedia.org/wiki/Black_metal)
-* Sarcofago - Hate
-* mayhem - necrolust 
-* Immortal - Tyrants
-* Abbath - Winter Bane
-* darkthrone - a blaze in the northern sky
-* burzum - dunkelheit  
-* batushka - yekteniya 4  
-* bathory - dies irae
+* [Bathory - Dies Irae](https://www.youtube.com/watch?v=tvbi_-mudzM)
+* [Mayhem - Necrolust](https://www.youtube.com/watch?v=ReqhO232HU8)
+* [Sarcofago - Hate](https://www.youtube.com/watch?v=JO3pMiPpEjc)
+* [Darkthrone - A Blaze in the Northern Sky](https://www.youtube.com/watch?v=Un2zVoG3NiE)
+* [Immortal - Tyrants](https://www.youtube.com/watch?v=FfMjvPvUKOA)
+* [Abbath - Winter Bane](https://www.youtube.com/watch?v=Yv-oC5zCwn8)
+* [Burzum - Dunkelheit](https://www.youtube.com/watch?v=DPyOhP1GTRQ)
+* [Batushka - Yekteniya 4](https://www.youtube.com/watch?v=wG35Cqg6mwQ)
 
 ## [Rock 'n' Roll](https://en.wikipedia.org/wiki/Rock_and_roll)
 * Acdc - Back In Black
@@ -153,8 +153,8 @@
 ## [Flamenco](https://en.wikipedia.org/wiki/Flamenco)
 * Yngwie Malmsteen - Flamenco Diablo
 * Vinnie Moore - Never Been To Barcelona
-* Al Di Meola - Mediterranean Sundance
-* Antonio Cobo - Brisas
+* [Al Di Meola - Mediterranean Sundance](https://www.youtube.com/watch?v=hhccIfevjCU)
+* [Antonio Cobo - Brisas](https://www.youtube.com/watch?v=UHyPTdGxlRk)
 
 ## [Blues Rock](https://en.wikipedia.org/wiki/Blues_rock)
 * Canned Heat - Rollin' And Tumblin'
