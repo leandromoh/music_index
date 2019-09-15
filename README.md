@@ -1,13 +1,13 @@
 ## [New School Thrash Metal](https://en.wikipedia.org/wiki/Thrash_metal)
-* Warbringer - Total War
-* Toxic Holocaust - Acid Fuz
-* Crisix - Dead By The Fistful Of Violence
-* Bio-Cancer - Ear Piercing Thrash
-* Violator - UxFxTx (United for Thrash)
-* Ultra-Violence - Stigmatized Reality
-* Tormenter - Absolution
-* Fueled By Fire - Rising From Beneath
-* Havok - Prepare For Attack
+* [Warbringer - Total War](https://www.youtube.com/watch?v=dCUsKzn0WNg)
+* [Havok - Prepare For Attack](https://www.youtube.com/watch?v=5KHJlRldQEY)
+* [Ultra-Violence - Stigmatized Reality](https://www.youtube.com/watch?v=OFJFHr7PIdA)
+* [Toxic Holocaust - Acid Fuz](https://www.youtube.com/watch?v=1pbdB4qABXo)
+* [Crisix - Dead By The Fistful Of Violence](https://www.youtube.com/watch?v=N3e7fLbpego)
+* [Bio-Cancer - Ear Piercing Thrash](https://www.youtube.com/watch?v=bwL1D3YGOts)
+* [Violator - UxFxTx (United for Thrash)](https://www.youtube.com/watch?v=8xT69qjeC2A)
+* [Tormenter - Absolution](https://www.youtube.com/watch?v=ZSA_ZCyVRww)
+* [Fueled By Fire - Rising From Beneath](https://www.youtube.com/watch?v=gjc9DiwMZB0)
 
 ## [Old School Thrash Metal](https://en.wikipedia.org/wiki/Thrash_metal)
 * Exodus - Bonded By Blood
