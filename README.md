@@ -38,7 +38,7 @@
 * [Stravinsky - Infernal Dance of King Kastchei](https://www.youtube.com/watch?v=HoLacjKPl7w)
 * [Antonio Vivaldi - Storm](https://www.youtube.com/watch?v=NqAOGduIFbg)
 * [Johann Strauss II - Voices of Spring Waltz](https://www.youtube.com/watch?v=2gG9YSaf4Mg)
-* [Jacques Offenbach](https://www.youtube.com/watch?v=4Diu2N8TGKA)
+* [Jacques Offenbach - Can Can](https://www.youtube.com/watch?v=4Diu2N8TGKA)
 * [Ludwig van Beethoven - Symphony 9, Op. 125](https://www.youtube.com/watch?v=jeO4RF7eXBc)
 * [Richard Wagner - Dawn & Siegfried's Rhine Journey](https://www.youtube.com/watch?v=RMn9fObPH7g)
 * [Wolfgang Amadeus Mozart - The Marriage of Figaro](https://www.youtube.com/watch?v=CQ8ZHilxdm8)
