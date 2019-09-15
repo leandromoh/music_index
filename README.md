@@ -17,22 +17,31 @@
 * [Adoniran Barbosa - O trem das onze](https://www.youtube.com/watch?v=ceBdGz3eTFg)
 * [Cartola - Preciso Me Encontrar](https://www.youtube.com/watch?v=fUjOfsoBhMY)
 * [Originais Do Samba - Falador Passa Mal](https://www.youtube.com/watch?v=B3nAXARhMLg)
+* [Clementina De Jesus - Marinheiro Só](https://www.youtube.com/watch?v=qHgY0PAaRVA)
+* [Moreira da Silva - Na Subida Do Morro](https://www.youtube.com/watch?v=fD8Hh4CFPkk)
+* [Bezerra da Silva - Malandro É Malandro E Mané É Mané](https://www.youtube.com/watch?v=J758GW3Bl58)
 
 ## [Música Popular Brasileira](https://en.wikipedia.org/wiki/M%C3%BAsica_popular_brasileira)
 * [Baden Powel e Vinícius de Moraes - Canto de Ossanha](https://www.youtube.com/watch?v=3ueru3eELi4)
 * [Caetano Veloso - Alegria, Alegria](https://www.youtube.com/watch?v=DVQll29Af_o)
 * [Elis Regina & Tom Jobim - Aguas de Março](https://www.youtube.com/watch?v=E1tOV7y94DY)
+* [Toquinho - Aquarela](https://www.youtube.com/watch?v=xT8HIiFQ8Y0)
 
 ## [Bossa nova](https://en.wikipedia.org/wiki/Bossa_nova)
 * [Tom Jobim - Garota de Ipanema](https://www.youtube.com/watch?v=KOQShDfOwuI)
 
 
 ## [Classical Music](https://en.wikipedia.org/wiki/Classical_music)
+* [Giuseppe Verdi - Dies Irae](https://www.youtube.com/watch?v=Mo22KhenMS4)
 * [Carl Orff - Carmina Burana](https://www.youtube.com/watch?v=GXFSK0ogeg4)
 * [Stravinsky - Infernal Dance of King Kastchei](https://www.youtube.com/watch?v=HoLacjKPl7w)
 * [Antonio Vivaldi - Storm](https://www.youtube.com/watch?v=NqAOGduIFbg)
 * [Johann Strauss II - Voices of Spring Waltz](https://www.youtube.com/watch?v=2gG9YSaf4Mg)
-
+* [Jacques Offenbach](https://www.youtube.com/watch?v=4Diu2N8TGKA)
+* [Ludwig van Beethoven - Symphony 9, Op. 125](https://www.youtube.com/watch?v=jeO4RF7eXBc)
+* [Richard Wagner - Dawn & Siegfried's Rhine Journey](https://www.youtube.com/watch?v=RMn9fObPH7g)
+* [Wolfgang Amadeus Mozart - The Marriage of Figaro](https://www.youtube.com/watch?v=CQ8ZHilxdm8)
+* [Antônio Carlos Gomes - O Guarani](https://www.youtube.com/watch?v=RYFemSXzO0c)
 
 ## [New School Thrash Metal](https://en.wikipedia.org/wiki/Thrash_metal)
 * [Warbringer - Total War](https://www.youtube.com/watch?v=dCUsKzn0WNg)
@@ -89,7 +98,7 @@
 * Pantera - Domination
 * Exhorder - (Cadence Of) The Dirge
 
-## [Crossover](https://en.wikipedia.org/wiki/Crossover_thrash)
+## [Crossover Thrash](https://en.wikipedia.org/wiki/Crossover_thrash)
 * Municipal Waste - The Art Of Partying
 * Suicidal Tendencies - You Can't Bring Me Down
 * D.R.I. - Shame
