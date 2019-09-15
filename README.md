@@ -1,6 +1,6 @@
-## New School Thrash Metal
+## [New School Thrash Metal](https://en.wikipedia.org/wiki/Thrash_metal)
 * Warbringer - Total War
-* Toxic Holocaust - Acid Fuz\
+* Toxic Holocaust - Acid Fuz
 * Crisix - Dead By The Fistful Of Violence
 * Bio-Cancer - Ear Piercing Thrash
 * Violator - UxFxTx (United for Thrash)
@@ -9,7 +9,7 @@
 * Fueled By Fire - Rising From Beneath
 * Havok - Prepare For Attack
 
-## Old School Thrash Metal
+## [Old School Thrash Metal](https://en.wikipedia.org/wiki/Thrash_metal)
 * Exodus - Bonded By Blood
 * Slayer - Angel of Death
 * Megadeth - Holy Wars...The Punishment Due
@@ -28,7 +28,7 @@
 * Tankard - (Empty) Tankard
 * Vio-Lence - Bodies On Bodies
 
-## Heavy Metal
+## [Heavy Metal](https://en.wikipedia.org/wiki/Heavy_metal_music)
 * Exciter - Live Fast, Die Young
 * Manowar - Die For Metal
 * Accept - Fast As A Shark
@@ -41,7 +41,7 @@
 * Rainbow - Stargazer
 * Saxon - Crusader
 
-## Power Metal
+## [Power Metal](https://en.wikipedia.org/wiki/Power_metal)
 * Blind Guardian - Skalds And Shadows
 * Angra - Rebirth
 * dragonforce - through the fire and flames
@@ -50,11 +50,11 @@
 * Sabaton - Primo Victoria
 * Stratovarius - Black Diamond
 
-## Groove Metal
+## [Groove Metal](https://en.wikipedia.org/wiki/Groove_metal)
 * Pantera - Domination
 * Exhorder - (Cadence Of) The Dirge
 
-## Crossover
+## [Crossover](https://en.wikipedia.org/wiki/Crossover_thrash)
 * Municipal Waste - The Art Of Partying
 * Suicidal Tendencies - You Can't Bring Me Down
 * D.R.I. - Shame
@@ -62,7 +62,7 @@
 * Cro-Mags - Death Camps
 * Ratos De Porao - Diet Paranoia
 
-## Death Metal
+## [Death Metal](https://en.wikipedia.org/wiki/Death_metal)
 * Death - Lack Of Comprehension
 * Carcass - Heartwork
 * Deicide - in the minds of evil
@@ -72,7 +72,7 @@
 * Possessed - The Exorcist
 * Excoriate - On Pestilent Winds
 
-## Black Metal
+## [Black Metal](https://en.wikipedia.org/wiki/Black_metal)
 * Sarcofago - Hate
 * mayhem - necrolust 
 * Immortal - Tyrants
@@ -82,13 +82,13 @@
 * batushka - yekteniya 4  
 * bathory - dies irae
 
-## Rock 'n' Roll
+## [Rock 'n' Roll](https://en.wikipedia.org/wiki/Rock_and_roll)
 * Acdc - Back In Black
 * George Thorogood And The Destroyers - Bad To The Bone
 * Motörhead - Ace Of Spades
 * Airbourne - Too Much, Too Young, Too Fastl
 
-## Shred
+## [Shred](https://en.wikipedia.org/wiki/Shred_guitar)
 * yngwie malmsteen - far beyond the sun
 * racer x - technical difficulties
 * steve vai - for the love of god
@@ -99,7 +99,7 @@
 * Vinnie Moore - Lifeforce
 * Charlie Parra del Riego - Speed Fucks 
 
-## Psychidelic Rock
+## [Psychidelic Rock](https://en.wikipedia.org/wiki/Psychedelic_rock)
 * Jefferson Airplane - Somebody To Love
 * Jimi Hendrix - Purple Haze
 * The Black Angels - Bad Vibrations
@@ -108,14 +108,14 @@
 * The Yardbirds - Happenings Ten Years Time Ago
 * Budgie - Parents
 
-## Progressive Rock
+## [Progressive Rock](https://en.wikipedia.org/wiki/Progressive_rock)
 * Jethro Tull - Aqualung
 * Pink Floyd - Another Brick In The Wall, Part 2
 * Supertramp - It's Raining Again
 * Yes - Love Will Find A Way
 * Kansas - Dust in the Wind
 
-## Hard Rock
+## [Hard Rock](https://en.wikipedia.org/wiki/Hard_rock)
 * Deep Purple - Smoke On The Water
 * Led Zeppelin - Immigrant Song
 * Robert Plant - 29 Palms
@@ -126,14 +126,14 @@
 * Van Halen - Hot For Teacher
 * Guns N' Roses - Welcome To The Jungle
 
-## Southern Rock
+## [Southern Rock](https://en.wikipedia.org/wiki/Southern_rock)
 * The Outlaws - Ghost Riders In The Sky
 * Pride & Glory - Losin' Your Mind
 * Lynyrd Skynyrd - Sweet Home Alabama
 * Crosby, Stills, Nash, & Young - Ohio
 * Creedence Clearwater Revival - Who'll Stop The Rain
 
-## Folk Metal
+## [Folk Metal](https://en.wikipedia.org/wiki/Folk_metal)
 * Eluveitie - Inis Mona
 * Equilibrium - Die Weide Und Der Fluß
 * ensiferum for those about to fight for metal 
@@ -143,24 +143,24 @@
 * Tuatha De Danann - Believe - It's True
 * Týr - Hold The Heathen Hammer High
 
-## Neoclassical Metal
+## [Neoclassical Metal](https://en.wikipedia.org/wiki/Neoclassical_metal)
 * Cacophony - Speed Metal Symphony
 * Yngwie Malmsteen - Icarus' Dream Suite Op.4
 * Joe Stump-Neo- Classical Shredfest Number 4
 * symphony x - evolution the grand design 
 * rhapsody of fire - unholy warcry
 
-## Flamenco
+## [Flamenco](https://en.wikipedia.org/wiki/Flamenco)
 * Yngwie Malmsteen - Flamenco Diablo
 * Vinnie Moore - Never Been To Barcelona
 * Al Di Meola - Mediterranean Sundance
 * Antonio Cobo - Brisas
 
-## Blues Rock
+## [Blues Rock](https://en.wikipedia.org/wiki/Blues_rock)
 * Canned Heat - Rollin' And Tumblin'
 * Motörhead - Whorehouse Blues
 
-## Celtic Punk 
+## [Celtic Punk](https://en.wikipedia.org/wiki/Celtic_punk)
 * Dropkick Murphey's - Im Shipping Up To Boston
 
 ## Others
