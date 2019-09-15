@@ -31,6 +31,14 @@
 ## [Bossa nova](https://en.wikipedia.org/wiki/Bossa_nova)
 * [Tom Jobim - Garota de Ipanema](https://www.youtube.com/watch?v=KOQShDfOwuI)
 
+## [Dubstep](https://en.wikipedia.org/wiki/Dubstep)
+* [Elements - Lindsey Stirling](https://www.youtube.com/watch?v=sf6LD2B_kDQ)
+
+## [Rap](https://en.wikipedia.org/wiki/Rapping)
+* [Mag - Rio de Janeiro Part. 2](https://www.youtube.com/watch?v=cc3np9H7ltg)
+* [Facção Central - Eu Não Pedi Pra Nascer](https://www.youtube.com/watch?v=AjH5syqe22A)
+* [Racionais MC's - Negro drama](https://www.youtube.com/watch?v=tWSr-NDZI4s)
+* [50 Cent - Candy Shop](https://www.youtube.com/watch?v=WRtCKef9SaA)
 
 ## [Classical Music](https://en.wikipedia.org/wiki/Classical_music)
 * [Giuseppe Verdi - Dies Irae](https://www.youtube.com/watch?v=Mo22KhenMS4)
@@ -87,35 +95,37 @@
 * [Diamond Head - Am I Evil](https://www.youtube.com/watch?v=TVid_fLzN5g)
 
 ## [Power Metal](https://en.wikipedia.org/wiki/Power_metal)
-* Blind Guardian - Skalds And Shadows
-* Angra - Rebirth
-* dragonforce - through the fire and flames
-* Gamma Ray - Heart Of The Unicorn
-* Helloween - I Want Out
-* Sabaton - Primo Victoria
-* Stratovarius - Black Diamond
+* [Blind Guardian - Skalds And Shadows](https://www.youtube.com/watch?v=0QPq041UhkQ)
+* [Angra - Rebirth](https://www.youtube.com/watch?v=z3JhXn_onsw)
+* [DragonForce - Through The Fire And Flames](https://www.youtube.com/watch?v=0jgrCKhxE1s)
+* [Gamma Ray - Heart Of The Unicorn](https://www.youtube.com/watch?v=GAJw5usJWZU)
+* [Helloween - I Want Out](https://www.youtube.com/watch?v=FjV8SHjHvHk)
+* [Sabaton - Primo Victoria](https://www.youtube.com/watch?v=QZm4zseMok0)
+* [Stratovarius - Black Diamond](https://www.youtube.com/watch?v=Tn58-Nl9NYw)
 
 ## [Groove Metal](https://en.wikipedia.org/wiki/Groove_metal)
-* Pantera - Domination
-* Exhorder - (Cadence Of) The Dirge
+* [Pantera - Domination](https://www.youtube.com/watch?v=lYPFrXvc2rE)
+* [Exhorder - (Cadence Of) The Dirge](https://www.youtube.com/watch?v=wEBrD3zPEWk)
 
 ## [Crossover Thrash](https://en.wikipedia.org/wiki/Crossover_thrash)
-* Municipal Waste - The Art Of Partying
-* Suicidal Tendencies - You Can't Bring Me Down
-* D.R.I. - Shame
-* Wehrmacht - Shark Attack
-* Cro-Mags - Death Camps
-* Ratos De Porao - Diet Paranoia
+* [Municipal Waste - The Art Of Partying](https://www.youtube.com/watch?v=evF80GEuVe8)
+* [Suicidal Tendencies - You Can't Bring Me Down](https://www.youtube.com/watch?v=BPfkK7bcyfE)
+* [D.R.I. - Shame](https://www.youtube.com/watch?v=nSWw0G_Lhdw)
+* [Wehrmacht - Shark Attack](https://www.youtube.com/watch?v=Hg0g1roUH1g)
+* [Cro-Mags - Death Camps](https://www.youtube.com/watch?v=-wj3fTwCfsI)
+* [Ratos De Porao - Diet Paranoia](https://www.youtube.com/watch?v=aZAN5nM3q3k)
+* [Cross Examination - Opposite Day](https://www.youtube.com/watch?v=ZSoWSB4WQVo)
+* [S.O.D. - Shenanigans](https://www.youtube.com/watch?v=1uSdaQsley4)
 
 ## [Death Metal](https://en.wikipedia.org/wiki/Death_metal)
-* Death - Lack Of Comprehension
-* Carcass - Heartwork
-* Deicide - in the minds of evil
-* Chapel of Disease - Song of the Gods
-* Pestilence - Out Of The Body
-* obituary - chopped in half 
-* Possessed - The Exorcist
-* Excoriate - On Pestilent Winds
+* [Death - Lack Of Comprehension](https://www.youtube.com/watch?v=Go64Oauc8-8)
+* [Carcass - Heartwork](https://www.youtube.com/watch?v=UHHMdct2cK4)
+* [Deicide - In The Minds of Evil](https://www.youtube.com/watch?v=FSkc-ZISYQM)
+* [Chapel of Disease - Song of the Gods](https://www.youtube.com/watch?v=eGf322drVLE)
+* [Pestilence - Out Of The Body](https://www.youtube.com/watch?v=U9tdqYmaLOk)
+* [Obituary - Chopped In Half](https://www.youtube.com/watch?v=NQgCZasm6mU)
+* [Possessed - The Exorcist](https://www.youtube.com/watch?v=Ehsl1bpEInQ)
+* [Excoriate - On Pestilent Winds](https://www.youtube.com/watch?v=IN5g2K5Qo9M)
 
 ## [Black Metal](https://en.wikipedia.org/wiki/Black_metal)
 * [Bathory - Dies Irae](https://www.youtube.com/watch?v=tvbi_-mudzM)
@@ -128,90 +138,92 @@
 * [Batushka - Yekteniya 4](https://www.youtube.com/watch?v=wG35Cqg6mwQ)
 
 ## [Rock 'n' Roll](https://en.wikipedia.org/wiki/Rock_and_roll)
-* Acdc - Back In Black
-* George Thorogood And The Destroyers - Bad To The Bone
-* Motörhead - Ace Of Spades
-* Airbourne - Too Much, Too Young, Too Fastl
+* [Acdc - Back In Black](https://www.youtube.com/watch?v=pAgnJDJN4VA)
+* [George Thorogood And The Destroyers - Bad To The Bone](https://www.youtube.com/watch?v=X9FyQNx8oyU)
+* [Motörhead - Ace Of Spades](https://www.youtube.com/watch?v=vcf7DnHi54g)
+* [Airbourne - Too Much, Too Young, Too Fast](https://www.youtube.com/watch?v=AkMZ6fV3T_0)
 
 ## [Shred](https://en.wikipedia.org/wiki/Shred_guitar)
-* yngwie malmsteen - far beyond the sun
-* racer x - technical difficulties
-* steve vai - for the love of god
-* joe stump - speed metal messiah
-* Michael Angelo Batio - No Boundaries
-* Jeff Loomis - Jato Unit 
-* rusty cooley - under the influence
-* Vinnie Moore - Lifeforce
-* Charlie Parra del Riego - Speed Fucks 
+* [Yngwie Malmsteen - Far Beyond The Sun](https://www.youtube.com/watch?v=SAsHFSrh0i8)
+* [Charlie Parra del Riego - Speed Fucks](https://www.youtube.com/watch?v=72DI5E1Q0Ow)
+* [Steve Vai - For The Love of God](https://www.youtube.com/watch?v=_gtUD5ncyNA)
+* [Joe Stump - Speed Metal Messiah](https://www.youtube.com/watch?v=6IcBG9LS-pY)
+* [Racer X - Technical Difficulties](https://www.youtube.com/watch?v=SkoPfV5tjWo)
+* [Michael Angelo Batio - No Boundaries](https://www.youtube.com/watch?v=cfpktPUV9wU)
+* [Jeff Loomis - Jato Unit](https://www.youtube.com/watch?v=x6Y7iLDj9Cg)
+* [Rusty Cooley - Under the Influence](https://www.youtube.com/watch?v=PzSLy8WKs20)
+* [Vinnie Moore - Lifeforce](https://www.youtube.com/watch?v=T1hRsHv1bJQ)
 
 ## [Psychidelic Rock](https://en.wikipedia.org/wiki/Psychedelic_rock)
-* Jefferson Airplane - Somebody To Love
-* Jimi Hendrix - Purple Haze
-* The Black Angels - Bad Vibrations
-* The Doors - Light My Fire
-* The Velvet Underground - Venus In Furs
-* The Yardbirds - Happenings Ten Years Time Ago
-* Budgie - Parents
+* [Jefferson Airplane - Somebody To Love](https://www.youtube.com/watch?v=Q7O7ihJCq0w)
+* [Jimi Hendrix - Purple Haze](https://www.youtube.com/watch?v=fjwWjx7Cw8I)
+* [The Black Angels - Bad Vibrations](https://www.youtube.com/watch?v=Sb7bCHlgdJQ)
+* [The Doors - Light My Fire](https://www.youtube.com/watch?v=AMCl9eOBlsY)
+* [The Velvet Underground - Venus In Furs](https://www.youtube.com/watch?v=iLQzaLr1enE)
+* [The Yardbirds - Happenings Ten Years Time Ago](https://www.youtube.com/watch?v=OJZHnZrUoQ0)
+* [Budgie - Parents](https://www.youtube.com/watch?v=U5vJ-cW8h9U)
+* [Pink Floyd - Echoes Part 2](https://www.youtube.com/watch?v=VSJPEZpHKFg)
 
 ## [Progressive Rock](https://en.wikipedia.org/wiki/Progressive_rock)
-* Jethro Tull - Aqualung
-* Pink Floyd - Another Brick In The Wall, Part 2
-* Supertramp - It's Raining Again
-* Yes - Love Will Find A Way
-* Kansas - Dust in the Wind
+* [Jethro Tull - Aqualung](https://www.youtube.com/watch?v=B0jMPI_pUec)
+* [Pink Floyd - Another Brick In The Wall, Part 2](https://www.youtube.com/watch?v=x71uD9ybrzk)
+* [Supertramp - It's Raining Again](https://www.youtube.com/watch?v=YZUE4_PtOk0)
+* [Yes - Love Will Find A Way](https://www.youtube.com/watch?v=Hrowi4hHz8A)
+* [Kansas - Dust in the Wind](https://www.youtube.com/watch?v=tH2w6Oxx0kQ)
 
 ## [Hard Rock](https://en.wikipedia.org/wiki/Hard_rock)
-* Deep Purple - Smoke On The Water
-* Led Zeppelin - Immigrant Song
-* Robert Plant - 29 Palms
-* Scorpions - Wind Of Change
-* Skid Row - 18 And Life
-* Twisted Sister - I Wanna Rock
-* Whitesnake - Is This Love
-* Van Halen - Hot For Teacher
-* Guns N' Roses - Welcome To The Jungle
+* [Deep Purple - Smoke On The Water](https://www.youtube.com/watch?v=zUwEIt9ez7M)
+* [Led Zeppelin - Immigrant Song](https://www.youtube.com/watch?v=y8OtzJtp-EM)
+* [Robert Plant - 29 Palms](https://www.youtube.com/watch?v=wD5qPWHIDPo)
+* [Scorpions - Wind Of Change](https://www.youtube.com/watch?v=n4RjJKxsamQ)
+* [Skid Row - 18 And Life](https://www.youtube.com/watch?v=Ghd2bkIadG4)
+* [Twisted Sister - I Wanna Rock](https://www.youtube.com/watch?v=SRwrg0db_zY)
+* [Whitesnake - Is This Love](https://www.youtube.com/watch?v=GOJk0HW_hJw)
+* [Van Halen - Hot For Teacher](https://www.youtube.com/watch?v=6M4_Ommfvv0)
+* [Guns N' Roses - Welcome To The Jungle](https://www.youtube.com/watch?v=o1tj2zJ2Wvg)
 
 ## [Southern Rock](https://en.wikipedia.org/wiki/Southern_rock)
-* The Outlaws - Ghost Riders In The Sky
-* Pride & Glory - Losin' Your Mind
-* Lynyrd Skynyrd - Sweet Home Alabama
-* Crosby, Stills, Nash, & Young - Ohio
-* Creedence Clearwater Revival - Who'll Stop The Rain
+* [The Outlaws - Ghost Riders In The Sky](https://www.youtube.com/watch?v=YmpvpypXKf0)
+* [Pride & Glory - Losin' Your Mind](https://www.youtube.com/watch?v=QEPSeKB7qkI)
+* [Lynyrd Skynyrd - Sweet Home Alabama](https://www.youtube.com/watch?v=ye5BuYf8q4o)
+* [Crosby, Stills, Nash, & Young - Ohio](https://www.youtube.com/watch?v=TRE9vMBBe10)
+* [Creedence Clearwater Revival - Who'll Stop The Rain](https://www.youtube.com/watch?v=lIPan-rEQJA)
 
 ## [Folk Metal](https://en.wikipedia.org/wiki/Folk_metal)
-* Eluveitie - Inis Mona
-* Equilibrium - Die Weide Und Der Fluß
-* ensiferum for those about to fight for metal 
-* Finsterforst - Lauf Der Welt
-* Korpiklaani - Vaarinpolkka
-* Bathory - ring of gold
-* Tuatha De Danann - Believe - It's True
-* Týr - Hold The Heathen Hammer High
+* [Eluveitie - Inis Mona](https://www.youtube.com/watch?v=iijKLHCQw5o)
+* [Equilibrium - Die Weide Und Der Fluß](https://www.youtube.com/watch?v=OrMclZovh_o)
+* [Ensiferum - For Those About To Fight For Metal](https://www.youtube.com/watch?v=tiuf4uSYFlQ) 
+* [Finsterforst - Lauf Der Welt](https://www.youtube.com/watch?v=CVtC8NDPorQ)
+* [Korpiklaani - Vaarinpolkka](https://www.youtube.com/watch?v=JPX-XkYWlnM)
+* [Bathory - Ring of Gold](https://www.youtube.com/watch?v=u5zYu7Ajqro)
+* [Tuatha De Danann - Believe! It's True](https://www.youtube.com/watch?v=IBkVQSJEZAk)
+* [Týr - Hold The Heathen Hammer High](https://www.youtube.com/watch?v=fu2bgwcv43o)
 
 ## [Neoclassical Metal](https://en.wikipedia.org/wiki/Neoclassical_metal)
-* Cacophony - Speed Metal Symphony
-* Yngwie Malmsteen - Icarus' Dream Suite Op.4
-* Joe Stump-Neo- Classical Shredfest Number 4
-* symphony x - evolution the grand design 
-* rhapsody of fire - unholy warcry
+* [Cacophony - Speed Metal Symphony](https://www.youtube.com/watch?v=NM17rAWKbIM)
+* [Yngwie Malmsteen - Icarus' Dream Suite Op.4](https://www.youtube.com/watch?v=T1Va1F1dQWo)
+* [Joe Stump - Neo-classical Shredfest No.4](https://www.youtube.com/watch?v=YGGehV5wnG0)
+* [Symphony X - Evolution (The Grand Design)](https://www.youtube.com/watch?v=wc62kCsDT9M)
+* [Rhapsody of Fire - Unholy Warcry](https://www.youtube.com/watch?v=o2MxdsKrrnA)
 
 ## [Flamenco](https://en.wikipedia.org/wiki/Flamenco)
-* Yngwie Malmsteen - Flamenco Diablo
-* Vinnie Moore - Never Been To Barcelona
+* [Yngwie Malmsteen - Flamenco Diablo](https://www.youtube.com/watch?v=OqboOEtwnHM)
+* [Vinnie Moore - Never Been To Barcelona](https://www.youtube.com/watch?v=5yU8V-FiiqA)
 * [Al Di Meola - Mediterranean Sundance](https://www.youtube.com/watch?v=hhccIfevjCU)
 * [Antonio Cobo - Brisas](https://www.youtube.com/watch?v=UHyPTdGxlRk)
 
 ## [Blues Rock](https://en.wikipedia.org/wiki/Blues_rock)
-* Canned Heat - Rollin' And Tumblin'
-* Motörhead - Whorehouse Blues
+* [Canned Heat - Rollin' And Tumblin'](https://www.youtube.com/watch?v=HIbvtdK02AA)
+* [Motörhead - Whorehouse Blues](https://www.youtube.com/watch?v=d5F7uhCIBco)
 
 ## [Celtic Punk](https://en.wikipedia.org/wiki/Celtic_punk)
-* Dropkick Murphey's - Im Shipping Up To Boston
+* [Dropkick Murphys - Im Shipping Up To Boston](https://www.youtube.com/watch?v=x-64CaD8GXw)
 
 ## Others
 
-* Vangelis - 12 O'clock
-* Vangelis - Albedo 0.39
-* Vangelis - Bacchananle
-* Vangelis - Pulstar
-* Vangelis - Spiral
+* [Vangelis - 12 O'clock](https://www.youtube.com/watch?v=W1GUhTBBUGM)
+* [Vangelis - Albedo 0.39](https://www.youtube.com/watch?v=8kDXADYUgqk)
+* [Vangelis - Bacchananle](https://www.youtube.com/watch?v=6L7kXoS7N1Y)
+* [Vangelis - Pulstar](https://www.youtube.com/watch?v=HaMBmBeNvtM)
+* [Vangelis - Spiral](https://www.youtube.com/watch?v=I-0Z5D7eRh8)
+
