@@ -14,11 +14,17 @@
 ## [Samba](https://en.wikipedia.org/wiki/Samba)
 * [Elizeth Cardoso - Barracão de Zinco](https://www.youtube.com/watch?v=YaBzuPGqDXo)
 * [Trio Mocotó - Não Adianta](https://www.youtube.com/watch?v=lUup5aMlZFs)
+* [Adoniran Barbosa - O trem das onze](https://www.youtube.com/watch?v=ceBdGz3eTFg)
+* [Cartola - Preciso Me Encontrar](https://www.youtube.com/watch?v=fUjOfsoBhMY)
+* [Originais Do Samba - Falador Passa Mal](https://www.youtube.com/watch?v=B3nAXARhMLg)
 
 ## [Música Popular Brasileira](https://en.wikipedia.org/wiki/M%C3%BAsica_popular_brasileira)
 * [Baden Powel e Vinícius de Moraes - Canto de Ossanha](https://www.youtube.com/watch?v=3ueru3eELi4)
 * [Caetano Veloso - Alegria, Alegria](https://www.youtube.com/watch?v=DVQll29Af_o)
+* [Elis Regina & Tom Jobim - Aguas de Março](https://www.youtube.com/watch?v=E1tOV7y94DY)
 
+## [Bossa nova](https://en.wikipedia.org/wiki/Bossa_nova)
+* [Tom Jobim - Garota de Ipanema](https://www.youtube.com/watch?v=KOQShDfOwuI)
 
 
 ## [Classical Music](https://en.wikipedia.org/wiki/Classical_music)
