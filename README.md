@@ -26,6 +26,7 @@
 * [Caetano Veloso - Alegria, Alegria](https://www.youtube.com/watch?v=DVQll29Af_o)
 * [Elis Regina & Tom Jobim - Aguas de Março](https://www.youtube.com/watch?v=E1tOV7y94DY)
 * [Toquinho - Aquarela](https://www.youtube.com/watch?v=xT8HIiFQ8Y0)
+* [Geraldo Vandré - Pra Não Dizer Que Não Falei Das Flores](https://www.youtube.com/watch?v=1KskJDDW93k)
 
 ## [Bossa nova](https://en.wikipedia.org/wiki/Bossa_nova)
 * [Tom Jobim - Garota de Ipanema](https://www.youtube.com/watch?v=KOQShDfOwuI)
