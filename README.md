@@ -1,3 +1,33 @@
+## [Baião](https://en.wikipedia.org/wiki/Bai%C3%A3o_(music))
+* [Luiz Gonzaga - Pagode Russo](https://www.youtube.com/watch?v=I0Nrfq4wB9k)
+* [Clara Nunes - Feira De Mangaio](https://www.youtube.com/watch?v=M-38_POSU1M)
+* [Dominguinhos - Eu Só Quero Um Xodó](https://www.youtube.com/watch?v=7SxRCcu7O28)
+* [Trio Nordestino - Forró Pesado](https://www.youtube.com/watch?v=Ge4UQS9v1rg)
+
+## [Chorinho](https://en.wikipedia.org/wiki/Choro)
+* [Pixinguinha - Lamentos](https://www.youtube.com/watch?v=Px23z4t-oHI)
+* [Jacob do Bandolim - Assanhado](https://www.youtube.com/watch?v=eadFunvjE04)
+* [Waldir Azevedo -Brasileirinho](https://www.youtube.com/watch?v=cS9-Y260KQQ)
+* [Zequinha de Abreu - Tico Tico No Fúba](https://www.youtube.com/watch?v=v_ZnJCMQqwo)
+* [Dilermando Reis - Marcha dos Marinheiros](https://www.youtube.com/watch?v=ogiav97zr9Y)
+
+## [Samba](https://en.wikipedia.org/wiki/Samba)
+* [Elizeth Cardoso - Barracão de Zinco](https://www.youtube.com/watch?v=YaBzuPGqDXo)
+* [Trio Mocotó - Não Adianta](https://www.youtube.com/watch?v=lUup5aMlZFs)
+
+## [Música Popular Brasileira](https://en.wikipedia.org/wiki/M%C3%BAsica_popular_brasileira)
+* [Baden Powel e Vinícius de Moraes - Canto de Ossanha](https://www.youtube.com/watch?v=3ueru3eELi4)
+* [Caetano Veloso - Alegria, Alegria](https://www.youtube.com/watch?v=DVQll29Af_o)
+
+
+
+## [Classical Music](https://en.wikipedia.org/wiki/Classical_music)
+* [Carl Orff - Carmina Burana](https://www.youtube.com/watch?v=GXFSK0ogeg4)
+* [Stravinsky - Infernal Dance of King Kastchei](https://www.youtube.com/watch?v=HoLacjKPl7w)
+* [Antonio Vivaldi - Storm](https://www.youtube.com/watch?v=NqAOGduIFbg)
+* [Johann Strauss II - Voices of Spring Waltz](https://www.youtube.com/watch?v=2gG9YSaf4Mg)
+
+
 ## [New School Thrash Metal](https://en.wikipedia.org/wiki/Thrash_metal)
 * [Warbringer - Total War](https://www.youtube.com/watch?v=dCUsKzn0WNg)
 * [Havok - Prepare For Attack](https://www.youtube.com/watch?v=5KHJlRldQEY)
