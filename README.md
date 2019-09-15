@@ -38,6 +38,7 @@
 * [Ozzy Osbourne - Crazy Train](https://www.youtube.com/watch?v=vy1V5LHXWbg)
 * [Rainbow - Stargazer](https://www.youtube.com/watch?v=rVXy1OhaERY)
 * [Saxon - Crusader](https://www.youtube.com/watch?v=JPbSjmToWXY)
+* [Diamond Head - Am I Evil](https://www.youtube.com/watch?v=TVid_fLzN5g)
 
 ## [Power Metal](https://en.wikipedia.org/wiki/Power_metal)
 * Blind Guardian - Skalds And Shadows
