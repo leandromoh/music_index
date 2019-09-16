@@ -38,6 +38,9 @@ Anyone can contribues with new musics or genres, just open an issue on this repo
 ## [Bossa nova](https://en.wikipedia.org/wiki/Bossa_nova)
 * [Tom Jobim - Garota de Ipanema](https://www.youtube.com/watch?v=KOQShDfOwuI)
 
+## [Blues](https://en.wikipedia.org/wiki/Blues)
+* [Brother Dege - Too Old to Die Young](https://www.youtube.com/watch?v=FQNFcYvILJE)
+
 ## [Dubstep](https://en.wikipedia.org/wiki/Dubstep)
 * [Elements - Lindsey Stirling](https://www.youtube.com/watch?v=sf6LD2B_kDQ)
 
@@ -162,6 +165,7 @@ Anyone can contribues with new musics or genres, just open an issue on this repo
 * [Acdc - Back In Black](https://www.youtube.com/watch?v=pAgnJDJN4VA)
 * [George Thorogood And The Destroyers - Bad To The Bone](https://www.youtube.com/watch?v=X9FyQNx8oyU)
 * [Motörhead - Ace Of Spades](https://www.youtube.com/watch?v=vcf7DnHi54g)
+* [Steppenwolf - Born To Be Wild](https://www.youtube.com/watch?v=egMWlD3fLJ8)
 * [Airbourne - Too Much, Too Young, Too Fast](https://www.youtube.com/watch?v=AkMZ6fV3T_0)
 
 ## [Shred](https://en.wikipedia.org/wiki/Shred_guitar)
@@ -247,4 +251,5 @@ Anyone can contribues with new musics or genres, just open an issue on this repo
 * [Vangelis - Bacchananle](https://www.youtube.com/watch?v=6L7kXoS7N1Y)
 * [Vangelis - Pulstar](https://www.youtube.com/watch?v=HaMBmBeNvtM)
 * [Vangelis - Spiral](https://www.youtube.com/watch?v=I-0Z5D7eRh8)
+* [The Dead South - In Hell I'll Be In Good Company](https://www.youtube.com/watch?v=B9FzVhw8_bY)
 
