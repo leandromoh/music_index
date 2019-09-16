@@ -87,7 +87,7 @@ Anyone can contribues with new musics or genres, just open an issue on this repo
 * [Death Angel - Thrashers](https://www.youtube.com/watch?v=AooZ9L6L1KU)
 * [Venom - Don't Burn The Witch](https://www.youtube.com/watch?v=bMwaDeJFx60)
 * [Testament - Brotherhood Of The Snake](https://www.youtube.com/watch?v=OeIgFsU0x4I)
-* [Sepultura - Roots Bloody Roots](https://www.youtube.com/watch?v=F_6IjeprfEs)
+* [Sepultura - Arise](https://www.youtube.com/watch?v=6BOHpjIZyx0)
 * [Destruction - Curse The Gods](https://www.youtube.com/watch?v=XnFL3xMoKIk)
 * [Kreator - Pleasure to Kill](https://www.youtube.com/watch?v=7PyvU9iSq50)
 * [Tankard - Need Money For Beer](https://www.youtube.com/watch?v=p5tbtjYh7Bs)
@@ -121,7 +121,12 @@ Anyone can contribues with new musics or genres, just open an issue on this repo
 
 ## [Groove Metal](https://en.wikipedia.org/wiki/Groove_metal)
 * [Pantera - Domination](https://www.youtube.com/watch?v=lYPFrXvc2rE)
+* [Sepultura - Refuse/Resist](https://www.youtube.com/watch?v=6ODNxy3YOPU)
 * [Exhorder - (Cadence Of) The Dirge](https://www.youtube.com/watch?v=wEBrD3zPEWk)
+* [Machine Head - Davidian](https://www.youtube.com/watch?v=_mWPPBW4DU8)
+* [Soulfly - Jump Da Fuck Up](https://www.youtube.com/watch?v=-4Z9NkY7St0)
+* [Lamb Of God - Desolation](https://www.youtube.com/watch?v=XWzYMCpXdSQ)
+* [Lazarus A.D. - Last Breath](https://www.youtube.com/watch?v=RrKliUq736Y)
 
 ## [Crossover Thrash](https://en.wikipedia.org/wiki/Crossover_thrash)
 * [Municipal Waste - The Art Of Partying](https://www.youtube.com/watch?v=evF80GEuVe8)
